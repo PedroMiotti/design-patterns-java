@@ -1,6 +1,6 @@
 package state;
 
-public class EraserTool implements Tool{
+public class EraserTool implements Tool {
     @Override
     public void mouseDown() {
         System.out.println("Eraser icon");

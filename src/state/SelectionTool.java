@@ -10,4 +10,5 @@ public class SelectionTool implements Tool {
     public void mouseUp() {
         System.out.println("Drew dotted rectangle");
     }
+
 }

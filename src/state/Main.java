@@ -1,8 +1,5 @@
 package state;
 
-import state.BrushTool;
-import state.Canvas;
-import state.EraserTool;
 
 public class Main {
 
