@@ -1,4 +1,4 @@
-package observer;
+package behavioural.observer;
 
 public class Chart implements Observer{
     private DataSource dataSource;

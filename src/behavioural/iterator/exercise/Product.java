@@ -1,4 +1,4 @@
-package iterator.exercise;
+package behavioural.iterator.exercise;
 
 public class Product {
     private int id;

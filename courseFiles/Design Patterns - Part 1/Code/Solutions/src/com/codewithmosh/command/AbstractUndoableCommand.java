@@ -1,9 +1,9 @@
 package com.codewithmosh.command;
 
 // The purpose of this class is to make sure all undoable commands have
-// a VideoEditor and a History. Plus, whenever a command is executed,
+// a VideoEditor and a History. Plus, whenever a behavioural.command is executed,
 // it's pushed in the history. This way, we don't have to remember to
-// store each individual command in the history.
+// store each individual behavioural.command in the history.
 public abstract class AbstractUndoableCommand implements UndoableCommand {
     protected VideoEditor videoEditor;
     protected History history;

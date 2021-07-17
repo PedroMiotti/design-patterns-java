@@ -1,4 +1,4 @@
-package memento.exercise;
+package behavioural.memento.exercise;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class History {
         //Get last item index
         int lastItemIndex = states.size() - 1;
 
-        // Removing the last state
+        // Removing the last behavioural.state
         EditorState lastState = states.get(lastItemIndex);
         states.remove(lastState);
 

@@ -1,4 +1,4 @@
-package observer;
+package behavioural.observer;
 
 public class DataSource extends Subject{
     private int value; // Whenever this value changes, other objects has to be notified

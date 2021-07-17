@@ -1,6 +1,6 @@
-package command;
+package behavioural.command;
 
-import command.framework.Command;
+import behavioural.command.framework.Command;
 
 public class AddCustomerCommand implements Command {
     private CustomerService service;

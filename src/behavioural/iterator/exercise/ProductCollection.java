@@ -1,4 +1,4 @@
-package iterator.exercise;
+package behavioural.iterator.exercise;
 
 import java.util.ArrayList;
 import java.util.List;

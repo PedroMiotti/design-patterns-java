@@ -1,4 +1,4 @@
-package chainOfResponsability;
+package behavioural.chainOfResponsability;
 
 public class WebServer {
     private Handler handler;

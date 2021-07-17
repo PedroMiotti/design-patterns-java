@@ -1,4 +1,4 @@
-package state;
+package behavioural.state;
 
 public class Canvas {
     private Tool currentTool;

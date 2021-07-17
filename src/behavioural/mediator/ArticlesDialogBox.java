@@ -1,6 +1,4 @@
-package mediator;
-
-import java.lang.management.GarbageCollectorMXBean;
+package behavioural.mediator;
 
 public class ArticlesDialogBox extends DialogBox{
     private ListBox articlesListBox = new ListBox(this);

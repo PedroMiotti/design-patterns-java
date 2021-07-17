@@ -1,4 +1,4 @@
-package visitor;
+package behavioural.visitor;
 
 public class PlainTextOperation implements Operation{
     @Override

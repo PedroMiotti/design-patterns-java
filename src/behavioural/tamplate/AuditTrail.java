@@ -1,4 +1,4 @@
-package tamplate;
+package behavioural.tamplate;
 
 public class AuditTrail {
 

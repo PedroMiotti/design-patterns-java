@@ -1,4 +1,4 @@
-package tamplate;
+package behavioural.tamplate;
 
 public abstract class Task {
     private AuditTrail auditTrail;

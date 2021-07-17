@@ -1,4 +1,4 @@
-package memento;
+package behavioural.memento;
 
 public class Main {
 }

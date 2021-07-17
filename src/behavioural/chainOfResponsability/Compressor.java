@@ -1,4 +1,4 @@
-package chainOfResponsability;
+package behavioural.chainOfResponsability;
 
 public class Compressor extends Handler{
     public Compressor(Handler next) {

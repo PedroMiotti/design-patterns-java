@@ -1,4 +1,4 @@
-package visitor;
+package behavioural.visitor;
 
 public class HighlightOperation implements Operation{
     @Override

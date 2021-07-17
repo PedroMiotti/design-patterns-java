@@ -1,4 +1,4 @@
-package mediator;
+package behavioural.mediator;
 
 public class TextBox extends UIControl{
     private String content;

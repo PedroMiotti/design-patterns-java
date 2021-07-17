@@ -1,6 +1,6 @@
-package mediator;
+package behavioural.mediator;
 
-// The abstract mediator
+// The abstract behavioural.mediator
 public abstract class DialogBox {
 
     // When a UIControll objects changes, its going to call this method

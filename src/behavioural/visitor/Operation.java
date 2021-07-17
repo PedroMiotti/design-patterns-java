@@ -1,4 +1,4 @@
-package visitor;
+package behavioural.visitor;
 
 public interface Operation {
     void apply(HeadingNode heading);

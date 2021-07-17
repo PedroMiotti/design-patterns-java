@@ -1,4 +1,4 @@
-package memento.exercise;
+package behavioural.memento.exercise;
 
 public class EditorState {
     private String content;

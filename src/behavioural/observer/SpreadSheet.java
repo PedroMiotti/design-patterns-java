@@ -1,4 +1,4 @@
-package observer;
+package behavioural.observer;
 
 public class SpreadSheet implements Observer{
     private DataSource dataSource; // Using the pull style of communication (Coupling)

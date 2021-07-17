@@ -1,4 +1,4 @@
-package command.framework;
+package behavioural.command.framework;
 
 public class Button {
     private String label;

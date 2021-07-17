@@ -1,1 +1,1 @@
-Allows an object to behave differently when its state changes.
+Allows an object to behave differently when its behavioural.state changes.

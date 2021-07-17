@@ -1,4 +1,4 @@
-package mediator;
+package behavioural.mediator;
 
 public class ListBox extends UIControl{
     private String selection;

@@ -1,4 +1,4 @@
-package mediator;
+package behavioural.mediator;
 
 public class Button extends UIControl{
     private boolean isEnabled;

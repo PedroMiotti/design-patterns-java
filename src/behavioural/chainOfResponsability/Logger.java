@@ -1,4 +1,4 @@
-package chainOfResponsability;
+package behavioural.chainOfResponsability;
 
 public class Logger extends Handler{
     public Logger(Handler next) {
