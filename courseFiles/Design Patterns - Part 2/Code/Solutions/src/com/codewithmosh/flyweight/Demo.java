@@ -1,6 +1,7 @@
 package com.codewithmosh.flyweight;
 
 public class Demo {
+  
   public static void show() {
     var contextFactory = new CellContextFactory();
     var sheet = new SpreadSheet(contextFactory);
@@ -9,4 +10,5 @@ public class Demo {
     sheet.setFontFamily(0, 0, "Arial");
     sheet.render();
   }
+  
 }
