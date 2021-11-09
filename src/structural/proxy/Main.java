@@ -5,7 +5,7 @@ public class Main {
         Library library = new Library();
         String[] filenames = { "a", "b", "c"};
 
-        // This will create one ebook in memory for each ebook in our library, but we don't use it all of them, so it would be a waste of memory.
+        // This will create one ebook in memory for each ebook in our library, but we don't to use all of them, so it would be a waste of memory.
 //        for(var fileName : filenames){
 //            library.add(new RealEbook(fileName));
 //        }
