@@ -14,7 +14,7 @@ public class History {
         //Get last item index
         int lastItemIndex = states.size() - 1;
 
-        // Removing the last behavioural.state
+        // Removing the last behavioural.state...
         EditorState lastState = states.get(lastItemIndex);
         states.remove(lastState);
 
